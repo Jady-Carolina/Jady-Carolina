@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jady-Carolina
-- 👀 I’m interested in  aperfeiçoar meus conhecimentos em front-ed e back-end  
+- 👀 I’m interested in 
 - 🌱 I’m currently learning  HTML / CSS / Javascript e outras areas do desenvolvimento front-end
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
