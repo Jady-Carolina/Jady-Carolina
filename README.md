@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Jady-Carolina
-- 👀 I’m interested in  aperfeiçoar meus conhecimentos como desenvolvedora front-end
-- 🌱 I’m currently learning  HTML / CSS / Javascript e outras areas do desenvolvimento front-end
-- 💞️ I’m looking to collaborate on projetos iniciais 
+- 👋  Pode entrar, não repara a bagunça! 
+- 🌱 Estudante de engenharia de software  e  desenvolvimento Front-end. 
+- 💞️ I’m looking to collaborate on projetos iniciais e estou aberta a colaborações, criticas e novos desafios. 
 - 📫 How to reach me ...carolinajady6586@icloud.com
 
 <!---
