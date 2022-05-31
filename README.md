@@ -1,6 +1,5 @@
 - 👋  Pode entrar, não repara a bagunça! 
-- 🌱 Front-end 
-- 💞️ I’m looking to collaborate on projetos iniciais e estou aberta a colaborações, criticas e novos desafios. 
+- 🌱 Front-end  developer
 - 📫 How to reach me ...carolinajady6586@icloud.com
 
 <!---
