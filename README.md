@@ -1,5 +1,5 @@
 - 👋  Pode entrar, não repara a bagunça! 
-- 🌱 Front-end  developer
+- 🌱  Developer Full Stack
 - 📫 How to reach me ...carolinajady6586@icloud.com
 
 <!---
